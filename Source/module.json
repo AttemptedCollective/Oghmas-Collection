@@ -1,9 +1,9 @@
 {   
-    "name": "cyberpunk-homebrew-oghma",   
+    "name": "oghmas-collection",   
     "title": "Oghma's Collection",   
     "description": "A collection of homebrew content for Cyberpunk Red",   
     "author": "Tyler Davis",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimumCoreVersion": "0.8.9",
     "compatibleCoreVersion":"0.8.9",
     "url": "https://github.com/AttemptedCollective/Oghmas-Collection",
@@ -24,21 +24,21 @@
           "label": "Oghma's Weapons",
           "path": "packs/weapons.db",
           "entity": "Item",
-          "module": "cyberpunk-homebrew-oghma"
+          "module": "oghmas-collection"
         },
         {
           "name": "weaponmods",
           "label": "Oghma's Mods",
           "path": "packs/weaponmods.db",
           "entity": "Item",
-          "module": "cyberpunk-homebrew-oghma"
+          "module": "oghmas-collection"
         },
         {
           "name": "cyberware",
           "label": "Oghma's Cyberware",
           "path": "packs/cyberware.db",
           "entity": "Item",
-          "module": "cyberpunk-homebrew-oghma"
+          "module": "oghmas-collection"
         }
     ]
 } 
