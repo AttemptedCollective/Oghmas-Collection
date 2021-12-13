@@ -7,8 +7,8 @@
     "minimumCoreVersion": "0.8.9",
     "compatibleCoreVersion":"0.8.9",
     "url": "https://github.com/AttemptedCollective/Oghmas-Collection",
-    "manifest": "https://github.com/AttemptedCollective/Oghmas-Collection/releases/download/Latest/module.json",
-    "download": "https://github.com/AttemptedCollective/Oghmas-Collection/releases/download/Latest/module.zip",
+    "manifest": "https://github.com/AttemptedCollective/Oghmas-Collection/releases/download/1.0.1/module.json",
+    "download": "https://github.com/AttemptedCollective/Oghmas-Collection/releases/download/1.0.1/module.zip",
     "system": [
       "cyberpunk-red-core"
     ],
