@@ -3,9 +3,9 @@
     "title": "Oghma's Collection",   
     "description": "A collection of homebrew content for Cyberpunk Red",   
     "author": "Tyler Davis",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "minimumCoreVersion": "0.8.9",
-    "compatibleCoreVersion":"0.8.9",
+    "compatibleCoreVersion":"9",
     "url": "https://github.com/AttemptedCollective/Oghmas-Collection",
     "manifest": "https://github.com/AttemptedCollective/Oghmas-Collection/releases/download/Latest/module.json",
     "download": "https://github.com/AttemptedCollective/Oghmas-Collection/releases/download/Latest/module.zip",
@@ -38,6 +38,13 @@
           "label": "Oghma's Cyberware",
           "path": "packs/cyberware.db",
           "entity": "Item",
+          "module": "oghmas-collection"
+        },
+        {
+          "name": "gear",
+          "label": "Oghma's Gear",
+          "path": "packs/gear.db",
+          "entity": "Gear",
           "module": "oghmas-collection"
         }
     ]
